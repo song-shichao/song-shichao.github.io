@@ -1,11 +1,25 @@
 {{- define "main" -}}
+  <style>
+    .external-link {
+      color: #111;
+      font-weight: 500;
+      text-decoration: underline;
+      text-underline-offset: 0.12em;
+    }
+  </style>
+
   <div class="container">
     <article>
-      <p>I'm Shichao Song.</p>
       <p>
-        This gallery is where light and memory meet. Browse the series, or
-        visit <a href="https://ki-seki.github.io/" rel="noreferrer">The Kiseki Log</a>
-        to read more about my work and life.
+        I'm Shichao Song. This gallery is where light and memory meet. You can also visit
+        <a
+          href="https://ki-seki.github.io/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="external-link"
+          >The Kiseki Log <span class="external-mark" aria-hidden="true">↗</span></a
+        >
+        for notes on my work and life.
       </p>
     </article>
 

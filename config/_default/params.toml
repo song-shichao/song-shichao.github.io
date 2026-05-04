@@ -13,6 +13,15 @@ svgFaviconFallback = "/dot.png"
 loResOpt = "800x webp Lanczos q60"
 hiResOpt = "2500x webp Lanczos q75"
 
+# labels (text shown on the UI)
+[labels]
+next = "next"
+prev = "prev"
+close = "close"
+threshold = "Threshold"
+error = "page not found"
+loading = "loading..."
+
 # page config
 [page]
 # unified alt text for all images in the page
