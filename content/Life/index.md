@@ -8,6 +8,6 @@ menu:
     identifier: Life
     title: Life
 unifiedAlt: 'The smallest moments often echo the loudest in memory.'
-_build:
+build:
   publishResources: false
 ---

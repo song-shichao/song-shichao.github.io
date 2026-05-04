@@ -8,6 +8,6 @@ menu:
     identifier: Tale
     title: Tale
 unifiedAlt: 'Some days write history in the language of light.'
-_build:
+build:
   publishResources: false
 ---

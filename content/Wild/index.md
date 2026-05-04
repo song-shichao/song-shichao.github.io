@@ -8,6 +8,6 @@ menu:
     identifier: Wild
     title: Wild
 unifiedAlt: 'In stillness, the earth speaks its ancient truth.'
-_build:
+build:
   publishResources: false
 ---
